@@ -1,2 +1,22 @@
 # Programmatrix
  
+## Project Description
+Programmatrix, pronounced Program-a-tricks. Is a programming language written with python.
+
+The language is python based, and (is hopefully) similar to BASIC. 
+I used python as it was the easiest thing I could get my hands on, as I had it installed. It is alsoo easier to work with than something like C which would have caused a pain that I just was not prepared for.
+
+I hope to make this into a fully functioning language at some point in the future, but this will probably take a while as I'm a student with basically no free time.
+
+## How to insatll
+
+The language was written in Python3.7 however I have tested it with Python3.9 and it still worked. I cannot guarantee that anything below 3.7 will work, but it might if that's all you have installed!
+
+To install the language, you need to:
+- Download the zip file from the github repo, and then extract the files. (Put them somewhere that you will be able to find it again)
+
+- Install Python 3.7 or higher from the [Python Website](https://www.python.org/downloads/)
+
+- After you have completed these steps, you're all done!
+
+Run instructions will be added in a future commit.
