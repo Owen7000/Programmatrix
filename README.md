@@ -40,3 +40,7 @@ To Do:
 - Type checking 
 - Compiler optimizations 
 - Interpreter to actually be able to run programmatrix rather than compile to C
+
+
+# Documentation
+You can find the docs [here](https://owen7000.github.io/Programmatrix-docs/)
