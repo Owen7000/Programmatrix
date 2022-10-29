@@ -20,3 +20,22 @@ To install the language, you need to:
 - After you have completed these steps, you're all done!
 
 Run instructions will be added in a future commit.
+
+
+To Do:
+- Parentheses for expressions
+- Logical operators 
+- ELSE IF and ELSE
+- FOR loop
+- Number literals written in binary, hex, and octal
+- Better compiler errors 
+- Allow multiple code files
+- Functions with parameters and return values
+- Lexical scope 
+- Standard library 
+- Abstract syntax tree representation
+- More primitive types 
+- Arrays
+- Record types 
+- Type checking 
+- Compiler optimizations 
