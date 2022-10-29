@@ -11,5 +11,3 @@ WHILE nums > 0 REPEAT
     LET b = c
     LET nums = nums - 1
 ENDWHILE
-
-#Finished up to Chapter 3
