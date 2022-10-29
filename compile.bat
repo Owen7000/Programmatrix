@@ -1,0 +1,1 @@
+python programmatrix.py %1
