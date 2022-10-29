@@ -39,3 +39,4 @@ To Do:
 - Record types 
 - Type checking 
 - Compiler optimizations 
+- Interpreter to actually be able to run programmatrix rather than compile to C
