@@ -66,7 +66,7 @@ class Parser:
         # Check that each label referenced in a GOTO is declared.
         for label in self.labelsGotoed:
             if label not in self.labelsDeclared:
-                self.abort("Attempting to GOTO to undeclared label: " + label)
+                self.abort("You do realise that " + label + " is not a real label right? I mean a bloody monkey could figure that out")
 
 
     # One of the following statements...
