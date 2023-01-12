@@ -43,4 +43,5 @@ To Do:
 
 
 # Documentation
+Our documentation is currently a work in progress. Contributions are very welcome.
 You can find the docs [here](https://owen7000.github.io/Programmatrix-docs/)
