@@ -1,2 +1,2 @@
 owen = sus
-print owen
+print (owen)
