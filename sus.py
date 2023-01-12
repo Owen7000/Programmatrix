@@ -1,2 +1,2 @@
-owen = sus
+owen = "sus"
 print (owen)
