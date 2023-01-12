@@ -8,7 +8,7 @@ I used python as it was the easiest thing I could get my hands on, as I had it i
 
 I hope to make this into a fully functioning language at some point in the future, but this will probably take a while as I'm a student with basically no free time.
 
-## How to insatll
+## How to install
 
 The language was written in Python3.7 however I have tested it with Python3.9 and it still worked. I cannot guarantee that anything below 3.7 will work, but it might if that's all you have installed!
 
