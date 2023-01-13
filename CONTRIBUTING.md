@@ -4,3 +4,7 @@ Thank you for investing your time in contributing to our project! Any contributi
 https://www.youtube.com/watch?v=dQw4w9WgXcQ) :sparkles:. 
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+
+If you are contributing any documentation to the source. Please be aware that we use the google standard for docstrings. 
+You can find out more about this [Here](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) any documentation that does not follow this standard will not be merged. 
+
