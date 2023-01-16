@@ -38,7 +38,7 @@ To Do:
 - Arrays
 - Record types 
 - Type checking 
-- Compiler optimizations 
+- Compiler optimisations 
 - Interpreter to actually be able to run programmatrix rather than compile to C
 
 
