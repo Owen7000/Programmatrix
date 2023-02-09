@@ -4,7 +4,7 @@
 Programmatrix, pronounced Program-a-tricks. Is a programming language written with python.
 
 The language is python based, and (is hopefully) similar to BASIC. 
-I used python as it was the easiest thing I could get my hands on, as I had it installed. It is alsoo easier to work with than something like C which would have caused a pain that I just was not prepared for.
+I used python as it was the easiest thing I could get my hands on, as I had it installed. It is also easier to work with than something like C which would have caused a pain that I just was not prepared for.
 
 I hope to make this into a fully functioning language at some point in the future, but this will probably take a while as I'm a student with basically no free time.
 
@@ -40,6 +40,7 @@ To Do:
 - Type checking 
 - Compiler optimisations 
 - Interpreter to actually be able to run programmatrix rather than compile to C
+- Compiler errors that insult you if you make a mistake, with the insults getting stronger every time you make the same mistake
 
 
 # Documentation
