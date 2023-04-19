@@ -66,7 +66,7 @@ class Parser:
         # Check that each label referenced in a GOTO is declared.
         for label in self.labelsGotoed:
             if label not in self.labelsDeclared:
-                self.abort("You do realise that " + label + " is not a real label right? I mean a bloody monkey could figure that out")
+                self.abort("You do realise that " + label + " is not a real label right? I mean a monkey could figure that out")
 
 
     # One of the following statements...
@@ -87,6 +87,10 @@ class Parser:
                 self.emitter.emit("printf(\"%" + ".2f\\n\", (float)(")
                 self.expression()
                 self.emitter.emitLine("));")
+
+        elif self.checkToken(TokenType.BRING):
+            self.nextToken()
+            self.emitter.emitLine("BRING")
 
         # "IF" comparison "THEN" block "ENDIF"
         elif self.checkToken(TokenType.IF):

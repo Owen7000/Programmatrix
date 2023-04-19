@@ -162,6 +162,7 @@ class TokenType(enum.Enum):
 	WHILE = 109
 	REPEAT = 110
 	ENDWHILE = 111
+	BRING = 112 # Experimental new keyword
 	# Operators.
 	EQ = 201  
 	PLUS = 202
