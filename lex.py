@@ -163,6 +163,7 @@ class TokenType(enum.Enum):
 	REPEAT = 110
 	ENDWHILE = 111
 	BRING = 112 # Experimental new keyword
+    STR = 113
 	# Operators.
 	EQ = 201  
 	PLUS = 202

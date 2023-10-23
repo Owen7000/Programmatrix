@@ -1,6 +1,6 @@
-from lex import *
-from emit import *
-from parse import *
+from lex import Lexer
+from emit import Emitter
+from parse import Parser
 import sys, time
 
 def main():
@@ -10,7 +10,7 @@ def main():
         sys.exit("You idiot: Put a file in.")
     with open(sys.argv[1], 'r') as inputFile:
         inputF = inputFile.read()
-    # Initialize the lexer, emitter, and parser.
+    # Initialise the lexer, emitter, and parser.
     lexer = Lexer(inputF)
     emitter = Emitter("out.c")
     parser = Parser(lexer, emitter)
@@ -19,7 +19,6 @@ def main():
     emitter.writeFile() # Write the output to file.
     print("Compiling completed.")
 
-    time.sleep(10)
 
 
 if __name__ == "__main__":
